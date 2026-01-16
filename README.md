@@ -8,7 +8,7 @@ You’ll build a mini **product analytics** dataset (events + orders), store it 
 
 - Live dashboard: https://public.tableau.com/views/CustomerAnalyticsDahsboard/CustomerAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-![Customer Analytics Dashboard](Customer Analytics Dashboard.png)
+![Customer Analytics Dashboard](Customer%20Analytics%20Dashboard.png)
 
 ## Key insights (from the dashboard)
 
