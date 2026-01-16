@@ -4,6 +4,18 @@ This project is designed to look **real-world**, by using **tiny data** and **sa
 
 You’ll build a mini **product analytics** dataset (events + orders), store it in **Amazon S3**, and create a **Tableau dashboard**.
 
+## Tableau Public Dashboard
+
+- Live dashboard: https://public.tableau.com/views/CustomerAnalyticsDahsboard/CustomerAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+![Customer Analytics Dashboard](Customer%20Analytics%20Dashboard.png)
+
+## Key insights (from the dashboard)
+
+- Conversion rate is ~13.9% (orders per session).
+- 21 orders generated ~$3,046 in revenue.
+- Funnel drop-off is largest between **product_view → add_to_cart**.
+
 ## What you’ll build (deliverables)
 
 - **Synthetic dataset** (CSV + Parquet):
